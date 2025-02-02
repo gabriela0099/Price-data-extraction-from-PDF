@@ -1,4 +1,3 @@
 # Extracting table from PDF containing price data
 
-The Jupyter Notebook contains script to perform the nessecary transformations and export the result to an Excel file.
-The code and process can be seen in the PDF.
+The script and description of the process to extract and transform the required data can be seen in the PDF.
